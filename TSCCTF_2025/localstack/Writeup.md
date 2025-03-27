@@ -1,8 +1,3 @@
----
-title: TSCCTF_2025-localstack
-tags: [Pwn, Writeup]
-
----
 
 # TSCCTF_2025-localstack
 ## localstack
