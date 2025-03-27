@@ -2,9 +2,9 @@
 # TSCCTF_2025-localstack
 ## localstack
 
-:::info
-OOB + bypass canary + ret2code + leak pie
-:::
+
+>OOB + bypass canary + ret2code + leak pie
+
 ![image](https://hackmd.io/_uploads/r1Vurg7cJl.png)
 他給了一包壓縮檔，解壓縮後裡面有 Docker 環境、source code、binary
 ```shell
