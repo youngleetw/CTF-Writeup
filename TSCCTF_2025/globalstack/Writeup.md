@@ -2,9 +2,9 @@
 # TSCCTF_2025-globalstack
 
 ## globalstack
-:::info
-oob + leak libc address + one gadget + Overwrite free_hook
-:::
+
+> oob + leak libc address + one gadget + Overwrite free_hook
+
 ![image](https://hackmd.io/_uploads/rkRZ3adcyl.png)
 
 ```shell
